@@ -1,0 +1,11 @@
+[package]
+name = "sigmaos-archlinux-gstreamer1"
+version = "0.1.0"
+edition = "2021"
+authors = ["SigmaOS Contributors"]
+description = "SigmaOS archlinux-gstreamer1 component (Arch Linux inspired)"
+license = "MIT OR Apache-2.0"
+
+[lib]
+name = "sigmaos_archlinux-gstreamer1"
+path = "src/lib.rs"
